@@ -1986,3 +1986,448 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.09.28-17.53.25:189][887]LogSlate: Window 'BP_ClockWheel' being destroyed
 [2022.09.28-17.53.25:193][887]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
 [2022.09.28-17.53.25:193][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-17.53.55:210][473]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.28-17.53.55:216][473]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.28-17.53.55:216][473]PIE: New page: PIE session: 2DSideScrollerExampleMap (28 sep. 2022 21:53:55)
+[2022.09.28-17.53.55:216][473]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.09.28-17.53.55:220][473]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004588s)
+[2022.09.28-17.53.55:221][473]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2022.09.28-17.53.55:222][473]LogPlayLevel: PIE: World Init took: (0.001000s)
+[2022.09.28-17.53.55:222][473]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.005758s)
+[2022.09.28-17.53.55:240][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.09.28-17.53.55:243][473]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2022.09.28-17.53.55:244][473]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.28-17.53.55:244][473]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.28-17.53.55:244][473]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.28-17.53.55:244][473]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.28-17.53.55:244][473]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.28-17.53.55:244][473]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.28-17.53.55:244][473]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.28-17.53.55:244][473]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.28-17.53.55:244][473]LogAudio: Display: Using built-in audio occlusion.
+[2022.09.28-17.53.55:244][473]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.28-17.53.55:247][473]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.28-17.53.55:247][473]LogAudioMixer: Display: 1: FrontRight
+[2022.09.28-17.53.55:256][473]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX 7.1 Audio)
+[2022.09.28-17.53.55:256][473]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.28-17.53.55:256][473]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.28-17.53.55:256][473]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.28-17.53.55:257][473]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.28-17.53.55:257][473]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.28-17.53.55:257][473]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.28-17.53.55:266][473]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.28-17.53.55:266][473]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.28-17.53.55:266][473]LogInit: FAudioDevice initialized.
+[2022.09.28-17.53.55:266][473]LogAudio: Display: Audio Device (ID: 22) registered with world '2DSideScrollerExampleMap'.
+[2022.09.28-17.53.55:273][473]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.09.28-17.53.55:275][473]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2022.09.28-19.53.55
+[2022.09.28-17.53.55:275][473]LogWorld: Bringing up level for play took: 0.001641
+[2022.09.28-17.53.55:275][473]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2022.09.28-17.53.55:277][473]PIE: Server logged in
+[2022.09.28-17.53.55:278][473]PIE: Play in editor total start time 0,064 seconds.
+[2022.09.28-17.54.00:262][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-17.54.00:262][ 63]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.09.28-17.54.00:262][ 63]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-17.54.00:262][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-17.54.00:268][ 63]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.28-17.54.00:277][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-17.54.00:294][ 63]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.28-17.54.00:294][ 63]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-17.54.00:295][ 63]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-17.54.00:307][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-17.54.00:310][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.09.28-17.54.00:340][ 64]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.09.28-17.54.02:739][347]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_77)
+[2022.09.28-17.54.03:570][442]Cmd: DELETE
+[2022.09.28-17.54.03:570][442]Cmd: ACTOR DELETE
+[2022.09.28-17.54.03:608][442]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2022.09.28-17.54.03:626][442]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.09.28-17.54.03:630][442]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2022.09.28-17.54.04:513][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.09.28-17.54.04:526][543]LogSavePackage: Moving 'E:/unreal_engine_grejer/Beat_Blocks/Saved/2DSideScrollerExampleMap6DDD433643ACFFB7D5BDCB8E513D14FA.tmp' to 'E:/unreal_engine_grejer/Beat_Blocks/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2022.09.28-17.54.04:533][543]LogSavePackage: Moving 'E:/unreal_engine_grejer/Beat_Blocks/Saved/2DSideScrollerExampleMap_BuiltDaE6A4EF2C4574F4AEF0B6E6BAFA3F2EC2.tmp' to 'E:/unreal_engine_grejer/Beat_Blocks/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2022.09.28-17.54.04:547][543]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.28-17.54.04:547][543]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2022.09.28-17.54.04:547][543]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2022.09.28-17.54.05:681][671]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.28-17.54.05:687][671]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.28-17.54.05:687][671]PIE: New page: PIE session: 2DSideScrollerExampleMap (28 sep. 2022 21:54:05)
+[2022.09.28-17.54.05:710][671]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.09.28-17.54.05:714][671]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004071s)
+[2022.09.28-17.54.05:715][671]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2022.09.28-17.54.05:715][671]LogPlayLevel: PIE: World Init took: (0.000976s)
+[2022.09.28-17.54.05:715][671]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.005192s)
+[2022.09.28-17.54.05:734][671]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.09.28-17.54.05:735][671]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2022.09.28-17.54.05:735][671]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.28-17.54.05:735][671]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.28-17.54.05:735][671]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.28-17.54.05:735][671]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.28-17.54.05:735][671]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.28-17.54.05:735][671]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.28-17.54.05:735][671]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.28-17.54.05:735][671]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.28-17.54.05:735][671]LogAudio: Display: Using built-in audio occlusion.
+[2022.09.28-17.54.05:735][671]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.28-17.54.05:738][671]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.28-17.54.05:738][671]LogAudioMixer: Display: 1: FrontRight
+[2022.09.28-17.54.05:747][671]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX 7.1 Audio)
+[2022.09.28-17.54.05:747][671]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.28-17.54.05:747][671]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.28-17.54.05:747][671]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.28-17.54.05:748][671]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.28-17.54.05:748][671]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.28-17.54.05:748][671]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.28-17.54.05:757][671]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.28-17.54.05:757][671]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.28-17.54.05:757][671]LogInit: FAudioDevice initialized.
+[2022.09.28-17.54.05:757][671]LogAudio: Display: Audio Device (ID: 23) registered with world '2DSideScrollerExampleMap'.
+[2022.09.28-17.54.05:765][671]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.09.28-17.54.05:768][671]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2022.09.28-19.54.05
+[2022.09.28-17.54.05:768][671]LogWorld: Bringing up level for play took: 0.001477
+[2022.09.28-17.54.05:768][671]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2022.09.28-17.54.05:770][671]PIE: Server logged in
+[2022.09.28-17.54.05:771][671]PIE: Play in editor total start time 0,086 seconds.
+[2022.09.28-17.54.15:640][854]LogNet: Browse: /Game/2DSideScrollerBP/Maps/level2
+[2022.09.28-17.54.15:641][854]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/level2
+[2022.09.28-17.54.15:641][854]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.09.28-17.54.15:641][854]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-17.54.15:641][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-17.54.15:685][854]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.28-17.54.15:689][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.09.28-17.54.15:708][854]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_L2
+[2022.09.28-17.54.15:714][854]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006253s)
+[2022.09.28-17.54.15:715][854]LogAIModule: Creating AISystem for world L2
+[2022.09.28-17.54.15:715][854]LogPlayLevel: PIE: World Init took: (0.001024s)
+[2022.09.28-17.54.15:715][854]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/L2.L2 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_L2.L2 (0.007431s)
+[2022.09.28-17.54.15:715][854]LogAudio: Display: Audio Device (ID: 23) registered with world 'L2'.
+[2022.09.28-17.54.15:715][854]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.09.28-17.54.15:717][854]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_L2.L2 up for play (max tick rate 0) at 2022.09.28-19.54.15
+[2022.09.28-17.54.15:717][854]LogWorld: Bringing up level for play took: 0.001238
+[2022.09.28-17.54.15:719][854]LogLoad: Took 0.078007 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/UEDPIE_0_L2)
+[2022.09.28-17.54.25:741][ 53]LogNet: Browse: /Game/2DSideScrollerBP/Maps/L3
+[2022.09.28-17.54.25:741][ 53]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/L3
+[2022.09.28-17.54.25:741][ 53]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_L2
+[2022.09.28-17.54.25:742][ 53]LogWorld: UWorld::CleanupWorld for L2, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-17.54.25:742][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-17.54.25:807][ 53]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.28-17.54.25:811][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.09.28-17.54.25:820][ 53]LogAudio: Display: Audio Device (ID: 23) registered with world 'L3'.
+[2022.09.28-17.54.25:821][ 53]LogAIModule: Creating AISystem for world L3
+[2022.09.28-17.54.25:821][ 53]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.09.28-17.54.25:826][ 53]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_L3.L3 up for play (max tick rate 0) at 2022.09.28-19.54.25
+[2022.09.28-17.54.25:826][ 53]LogWorld: Bringing up level for play took: 0.004281
+[2022.09.28-17.54.25:827][ 53]LogLoad: Took 0.085905 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/L3)
+[2022.09.28-17.54.53:477][368]LogNet: Browse: /Game/2DSideScrollerBP/Maps/L4
+[2022.09.28-17.54.53:477][368]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/L4
+[2022.09.28-17.54.53:477][368]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_L3
+[2022.09.28-17.54.53:477][368]LogWorld: UWorld::CleanupWorld for L3, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-17.54.53:478][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-17.54.53:517][368]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.28-17.54.53:520][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.09.28-17.54.53:530][368]LogAudio: Display: Audio Device (ID: 23) registered with world 'L4'.
+[2022.09.28-17.54.53:531][368]LogAIModule: Creating AISystem for world L4
+[2022.09.28-17.54.53:531][368]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.09.28-17.54.53:539][368]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_L4.L4 up for play (max tick rate 0) at 2022.09.28-19.54.53
+[2022.09.28-17.54.53:539][368]LogWorld: Bringing up level for play took: 0.007078
+[2022.09.28-17.54.53:541][368]LogLoad: Took 0.063787 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/L4)
+[2022.09.28-17.55.01:932][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-17.55.01:932][363]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_L4
+[2022.09.28-17.55.01:932][363]LogWorld: UWorld::CleanupWorld for L4, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-17.55.01:933][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-17.55.01:944][363]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.28-17.55.01:948][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-17.55.01:964][363]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.28-17.55.01:964][363]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-17.55.01:965][363]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-17.55.01:977][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-17.55.01:981][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.09.28-17.55.02:002][364]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.09.28-17.55.06:854][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.09.28-17.55.06:880][939]LogAssetEditorSubsystem: Opening Asset editor for World /Game/2DSideScrollerBP/Maps/L2.L2
+[2022.09.28-17.55.06:880][939]Cmd: MAP LOAD FILE="E:/unreal_engine_grejer/Beat_Blocks/Content/2DSideScrollerBP/Maps/L2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.28-17.55.06:880][939]LightingResults: New page: Lighting Build
+[2022.09.28-17.55.06:880][939]LoadErrors: New page: Loading map: L2.umap
+[2022.09.28-17.55.06:920][939]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-17.55.06:920][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-17.55.06:920][939]MapCheck: New page: Map Check
+[2022.09.28-17.55.06:920][939]LightingResults: New page: Lighting Build
+[2022.09.28-17.55.06:935][939]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.28-17.55.06:939][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.09.28-17.55.06:958][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.09.28-17.55.06:975][939]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.09.28-17.55.06:975][939]LogAudio: Display: Audio Device (ID: 1) registered with world 'L2'.
+[2022.09.28-17.55.06:985][939]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.28-17.55.06:985][939]LogAIModule: Creating AISystem for world L2
+[2022.09.28-17.55.07:005][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.09.28-17.55.07:008][939]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.28-17.55.07:008][939]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,121ms to complete.
+[2022.09.28-17.55.07:008][939]LogFileHelpers: Loading map 'L2' took 0.128
+[2022.09.28-17.55.17:953][238]Cmd: DELETE
+[2022.09.28-17.55.17:953][238]Cmd: ACTOR DELETE
+[2022.09.28-17.55.17:956][238]LogEditorActor: Deleted Actor: TextRenderActor
+[2022.09.28-17.55.17:972][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.09.28-17.55.17:975][238]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2022.09.28-17.55.19:477][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Maps/L2" FILE="E:/unreal_engine_grejer/Beat_Blocks/Content/2DSideScrollerBP/Maps/L2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.28-17.55.19:493][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.09.28-17.55.19:509][414]LogSavePackage: Moving 'E:/unreal_engine_grejer/Beat_Blocks/Saved/L25C118EE441842704F8C72695D86774D0.tmp' to 'E:/unreal_engine_grejer/Beat_Blocks/Content/2DSideScrollerBP/Maps/L2.umap'
+[2022.09.28-17.55.19:519][414]AssetCheck: New page: Asset Save: L2
+[2022.09.28-17.55.19:520][414]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/L2.L2
+[2022.09.28-17.55.24:516][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.09.28-17.55.24:559][737]LogAssetEditorSubsystem: Opening Asset editor for World /Game/2DSideScrollerBP/Maps/L3.L3
+[2022.09.28-17.55.24:559][737]Cmd: MAP LOAD FILE="E:/unreal_engine_grejer/Beat_Blocks/Content/2DSideScrollerBP/Maps/L3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.28-17.55.24:560][737]LightingResults: New page: Lighting Build
+[2022.09.28-17.55.24:560][737]LoadErrors: New page: Loading map: L3.umap
+[2022.09.28-17.55.24:600][737]LogWorld: UWorld::CleanupWorld for L2, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-17.55.24:600][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-17.55.24:600][737]MapCheck: New page: Map Check
+[2022.09.28-17.55.24:600][737]LightingResults: New page: Lighting Build
+[2022.09.28-17.55.24:616][737]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.28-17.55.24:619][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.09.28-17.55.24:620][737]LogAudio: Display: Audio Device (ID: 1) registered with world 'L3'.
+[2022.09.28-17.55.24:627][737]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.28-17.55.24:627][737]LogAIModule: Creating AISystem for world L3
+[2022.09.28-17.55.24:646][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.09.28-17.55.24:649][737]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.28-17.55.24:649][737]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,066ms to complete.
+[2022.09.28-17.55.24:649][737]LogFileHelpers: Loading map 'L3' took 0.090
+[2022.09.28-17.55.27:319][ 50]Cmd: DELETE
+[2022.09.28-17.55.27:319][ 50]Cmd: ACTOR DELETE
+[2022.09.28-17.55.27:338][ 50]LogEditorActor: Deleted Actor: TextRenderActor
+[2022.09.28-17.55.27:356][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.09.28-17.55.27:358][ 50]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2022.09.28-17.55.28:537][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Maps/L3" FILE="E:/unreal_engine_grejer/Beat_Blocks/Content/2DSideScrollerBP/Maps/L3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.28-17.55.28:552][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.09.28-17.55.28:566][185]LogSavePackage: Moving 'E:/unreal_engine_grejer/Beat_Blocks/Saved/L3D173888B42726B081CAC9A9A05756277.tmp' to 'E:/unreal_engine_grejer/Beat_Blocks/Content/2DSideScrollerBP/Maps/L3.umap'
+[2022.09.28-17.55.28:577][185]AssetCheck: New page: Asset Save: L3
+[2022.09.28-17.55.28:577][185]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/L3.L3
+[2022.09.28-17.55.29:830][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.09.28-17.55.29:869][332]LogAssetEditorSubsystem: Opening Asset editor for World /Game/2DSideScrollerBP/Maps/L4.L4
+[2022.09.28-17.55.29:869][332]Cmd: MAP LOAD FILE="E:/unreal_engine_grejer/Beat_Blocks/Content/2DSideScrollerBP/Maps/L4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.28-17.55.29:869][332]LightingResults: New page: Lighting Build
+[2022.09.28-17.55.29:869][332]LoadErrors: New page: Loading map: L4.umap
+[2022.09.28-17.55.29:891][332]LogWorld: UWorld::CleanupWorld for L3, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-17.55.29:891][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-17.55.29:891][332]MapCheck: New page: Map Check
+[2022.09.28-17.55.29:891][332]LightingResults: New page: Lighting Build
+[2022.09.28-17.55.29:908][332]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.28-17.55.29:911][332]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.09.28-17.55.29:932][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.09.28-17.55.29:950][332]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.09.28-17.55.29:950][332]LogAudio: Display: Audio Device (ID: 1) registered with world 'L4'.
+[2022.09.28-17.55.29:960][332]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.28-17.55.29:960][332]LogAIModule: Creating AISystem for world L4
+[2022.09.28-17.55.29:980][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.09.28-17.55.29:983][332]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.28-17.55.29:983][332]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,071ms to complete.
+[2022.09.28-17.55.29:983][332]LogFileHelpers: Loading map 'L4' took 0.114
+[2022.09.28-17.55.31:672][527]Cmd: DELETE
+[2022.09.28-17.55.31:672][527]Cmd: ACTOR DELETE
+[2022.09.28-17.55.31:688][527]LogEditorActor: Deleted Actor: TextRenderActor
+[2022.09.28-17.55.31:706][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.09.28-17.55.31:707][527]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2022.09.28-17.55.32:724][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Maps/L4" FILE="E:/unreal_engine_grejer/Beat_Blocks/Content/2DSideScrollerBP/Maps/L4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.28-17.55.32:741][641]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.09.28-17.55.32:757][641]LogSavePackage: Moving 'E:/unreal_engine_grejer/Beat_Blocks/Saved/L493AB4951436C957871438092BB93FE29.tmp' to 'E:/unreal_engine_grejer/Beat_Blocks/Content/2DSideScrollerBP/Maps/L4.umap'
+[2022.09.28-17.55.32:767][641]AssetCheck: New page: Asset Save: L4
+[2022.09.28-17.55.32:767][641]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/L4.L4
+[2022.09.28-17.55.35:377][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.09.28-17.55.35:426][952]LogAssetEditorSubsystem: Opening Asset editor for World /Game/2DSideScrollerBP/Maps/L5.L5
+[2022.09.28-17.55.35:426][952]Cmd: MAP LOAD FILE="E:/unreal_engine_grejer/Beat_Blocks/Content/2DSideScrollerBP/Maps/L5.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.28-17.55.35:426][952]LightingResults: New page: Lighting Build
+[2022.09.28-17.55.35:426][952]LoadErrors: New page: Loading map: L5.umap
+[2022.09.28-17.55.35:427][952]LogWorld: UWorld::CleanupWorld for L4, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-17.55.35:427][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-17.55.35:427][952]MapCheck: New page: Map Check
+[2022.09.28-17.55.35:427][952]LightingResults: New page: Lighting Build
+[2022.09.28-17.55.35:443][952]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.28-17.55.35:446][952]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.09.28-17.55.35:467][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.09.28-17.55.35:484][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.09.28-17.55.35:485][952]LogAudio: Display: Audio Device (ID: 1) registered with world 'L5'.
+[2022.09.28-17.55.35:495][952]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.28-17.55.35:495][952]LogAIModule: Creating AISystem for world L5
+[2022.09.28-17.55.35:515][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.09.28-17.55.35:518][952]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.28-17.55.35:518][952]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,059ms to complete.
+[2022.09.28-17.55.35:518][952]LogFileHelpers: Loading map 'L5' took 0.093
+[2022.09.28-17.55.37:537][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.09.28-17.55.37:562][190]LogAssetEditorSubsystem: Opening Asset editor for World /Game/2DSideScrollerBP/Maps/L5.L5
+[2022.09.28-17.55.37:562][190]Cmd: MAP LOAD FILE="E:/unreal_engine_grejer/Beat_Blocks/Content/2DSideScrollerBP/Maps/L5.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.28-17.55.37:562][190]LightingResults: New page: Lighting Build
+[2022.09.28-17.55.37:562][190]LoadErrors: New page: Loading map: L5.umap
+[2022.09.28-17.55.37:563][190]LogWorld: UWorld::CleanupWorld for L5, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-17.55.37:563][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-17.55.37:564][190]MapCheck: New page: Map Check
+[2022.09.28-17.55.37:564][190]LightingResults: New page: Lighting Build
+[2022.09.28-17.55.37:579][190]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.28-17.55.37:582][190]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.09.28-17.55.37:589][190]LogAudio: Display: Audio Device (ID: 1) registered with world 'L5'.
+[2022.09.28-17.55.37:590][190]LogAIModule: Creating AISystem for world L5
+[2022.09.28-17.55.37:602][190]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.28-17.55.37:623][190]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.09.28-17.55.37:626][190]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.28-17.55.37:626][190]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,07ms to complete.
+[2022.09.28-17.55.37:626][190]LogFileHelpers: Loading map 'L5' took 0.064
+[2022.09.28-17.55.39:618][423]Cmd: DELETE
+[2022.09.28-17.55.39:618][423]Cmd: ACTOR DELETE
+[2022.09.28-17.55.39:634][423]LogEditorActor: Deleted Actor: TextRenderActor
+[2022.09.28-17.55.39:652][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.09.28-17.55.39:653][423]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2022.09.28-17.55.40:783][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Maps/L5" FILE="E:/unreal_engine_grejer/Beat_Blocks/Content/2DSideScrollerBP/Maps/L5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.28-17.55.40:798][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.09.28-17.55.40:814][554]LogSavePackage: Moving 'E:/unreal_engine_grejer/Beat_Blocks/Saved/L55CA8E2E24ED7F142D38778BAD8A52E79.tmp' to 'E:/unreal_engine_grejer/Beat_Blocks/Content/2DSideScrollerBP/Maps/L5.umap'
+[2022.09.28-17.55.40:825][554]AssetCheck: New page: Asset Save: L5
+[2022.09.28-17.55.40:825][554]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/L5.L5
+[2022.09.28-17.56.20:510][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.09.28-17.56.20:554][303]LogAssetEditorSubsystem: Opening Asset editor for World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2022.09.28-17.56.20:554][303]Cmd: MAP LOAD FILE="E:/unreal_engine_grejer/Beat_Blocks/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.28-17.56.20:554][303]LightingResults: New page: Lighting Build
+[2022.09.28-17.56.20:554][303]LoadErrors: New page: Loading map: 2DSideScrollerExampleMap.umap
+[2022.09.28-17.56.20:581][303]LogWorld: UWorld::CleanupWorld for L5, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-17.56.20:581][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-17.56.20:581][303]MapCheck: New page: Map Check
+[2022.09.28-17.56.20:581][303]LightingResults: New page: Lighting Build
+[2022.09.28-17.56.20:597][303]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.28-17.56.20:600][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.09.28-17.56.20:621][303]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.09.28-17.56.20:639][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.09.28-17.56.20:639][303]LogAudio: Display: Audio Device (ID: 1) registered with world '2DSideScrollerExampleMap'.
+[2022.09.28-17.56.20:648][303]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.28-17.56.20:648][303]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2022.09.28-17.56.20:667][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.09.28-17.56.20:671][303]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.28-17.56.20:671][303]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,063ms to complete.
+[2022.09.28-17.56.20:671][303]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.117
+[2022.09.28-17.56.37:881][358]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.28-17.56.37:886][358]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.28-17.56.37:886][358]PIE: New page: PIE session: 2DSideScrollerExampleMap (28 sep. 2022 21:56:37)
+[2022.09.28-17.56.37:919][358]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.09.28-17.56.37:924][358]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004098s)
+[2022.09.28-17.56.37:924][358]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2022.09.28-17.56.37:925][358]LogPlayLevel: PIE: World Init took: (0.000979s)
+[2022.09.28-17.56.37:925][358]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.005287s)
+[2022.09.28-17.56.37:943][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.09.28-17.56.37:946][358]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2022.09.28-17.56.37:946][358]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.28-17.56.37:946][358]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.28-17.56.37:946][358]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.28-17.56.37:946][358]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.28-17.56.37:947][358]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.28-17.56.37:947][358]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.28-17.56.37:947][358]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.28-17.56.37:947][358]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.28-17.56.37:947][358]LogAudio: Display: Using built-in audio occlusion.
+[2022.09.28-17.56.37:947][358]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.28-17.56.37:950][358]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.28-17.56.37:950][358]LogAudioMixer: Display: 1: FrontRight
+[2022.09.28-17.56.37:960][358]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX 7.1 Audio)
+[2022.09.28-17.56.37:961][358]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.28-17.56.37:961][358]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.28-17.56.37:961][358]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.28-17.56.37:961][358]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.28-17.56.37:961][358]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.28-17.56.37:961][358]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.28-17.56.37:971][358]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.28-17.56.37:971][358]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.28-17.56.37:971][358]LogInit: FAudioDevice initialized.
+[2022.09.28-17.56.37:971][358]LogAudio: Display: Audio Device (ID: 24) registered with world '2DSideScrollerExampleMap'.
+[2022.09.28-17.56.37:978][358]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.09.28-17.56.37:981][358]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2022.09.28-19.56.37
+[2022.09.28-17.56.37:981][358]LogWorld: Bringing up level for play took: 0.001693
+[2022.09.28-17.56.37:981][358]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2022.09.28-17.56.37:983][358]PIE: Server logged in
+[2022.09.28-17.56.37:984][358]PIE: Play in editor total start time 0,099 seconds.
+[2022.09.28-17.56.47:967][550]LogNet: Browse: /Game/2DSideScrollerBP/Maps/level2
+[2022.09.28-17.56.47:967][550]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/level2
+[2022.09.28-17.56.47:967][550]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.09.28-17.56.47:968][550]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-17.56.47:968][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-17.56.48:015][550]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.28-17.56.48:019][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.09.28-17.56.48:034][550]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_L2
+[2022.09.28-17.56.48:041][550]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006111s)
+[2022.09.28-17.56.48:041][550]LogAIModule: Creating AISystem for world L2
+[2022.09.28-17.56.48:042][550]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2022.09.28-17.56.48:042][550]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/L2.L2 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_L2.L2 (0.007317s)
+[2022.09.28-17.56.48:042][550]LogAudio: Display: Audio Device (ID: 24) registered with world 'L2'.
+[2022.09.28-17.56.48:042][550]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.09.28-17.56.48:043][550]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_L2.L2 up for play (max tick rate 0) at 2022.09.28-19.56.48
+[2022.09.28-17.56.48:043][550]LogWorld: Bringing up level for play took: 0.001218
+[2022.09.28-17.56.48:045][550]LogLoad: Took 0.077289 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/UEDPIE_0_L2)
+[2022.09.28-17.56.57:543][688]LogNet: Browse: /Game/2DSideScrollerBP/Maps/L3
+[2022.09.28-17.56.57:543][688]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/L3
+[2022.09.28-17.56.57:543][688]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_L2
+[2022.09.28-17.56.57:544][688]LogWorld: UWorld::CleanupWorld for L2, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-17.56.57:544][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-17.56.57:598][688]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.28-17.56.57:601][688]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.09.28-17.56.57:611][688]LogAudio: Display: Audio Device (ID: 24) registered with world 'L3'.
+[2022.09.28-17.56.57:612][688]LogAIModule: Creating AISystem for world L3
+[2022.09.28-17.56.57:612][688]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.09.28-17.56.57:618][688]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_L3.L3 up for play (max tick rate 0) at 2022.09.28-19.56.57
+[2022.09.28-17.56.57:618][688]LogWorld: Bringing up level for play took: 0.004644
+[2022.09.28-17.56.57:619][688]LogLoad: Took 0.075605 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/L3)
+[2022.09.28-17.57.04:985][569]LogNet: Browse: /Game/2DSideScrollerBP/Maps/L4
+[2022.09.28-17.57.04:985][569]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/L4
+[2022.09.28-17.57.04:985][569]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_L3
+[2022.09.28-17.57.04:986][569]LogWorld: UWorld::CleanupWorld for L3, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-17.57.04:986][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-17.57.05:046][569]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.28-17.57.05:050][569]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.09.28-17.57.05:060][569]LogAudio: Display: Audio Device (ID: 24) registered with world 'L4'.
+[2022.09.28-17.57.05:061][569]LogAIModule: Creating AISystem for world L4
+[2022.09.28-17.57.05:061][569]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.09.28-17.57.05:069][569]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_L4.L4 up for play (max tick rate 0) at 2022.09.28-19.57.05
+[2022.09.28-17.57.05:069][569]LogWorld: Bringing up level for play took: 0.007331
+[2022.09.28-17.57.05:070][569]LogLoad: Took 0.085222 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/L4)
+[2022.09.28-17.57.35:472][212]LogNet: Browse: /Game/2DSideScrollerBP/Maps/L5
+[2022.09.28-17.57.35:472][212]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/L5
+[2022.09.28-17.57.35:472][212]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_L4
+[2022.09.28-17.57.35:472][212]LogWorld: UWorld::CleanupWorld for L4, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-17.57.35:473][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-17.57.35:528][212]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.28-17.57.35:532][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.09.28-17.57.35:543][212]LogAudio: Display: Audio Device (ID: 24) registered with world 'L5'.
+[2022.09.28-17.57.35:544][212]LogAIModule: Creating AISystem for world L5
+[2022.09.28-17.57.35:544][212]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.09.28-17.57.35:553][212]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_L5.L5 up for play (max tick rate 0) at 2022.09.28-19.57.35
+[2022.09.28-17.57.35:554][212]LogWorld: Bringing up level for play took: 0.008853
+[2022.09.28-17.57.35:555][212]LogLoad: Took 0.083008 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/L5)
+[2022.09.28-17.57.52:640][256]LogNet: Browse: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.09.28-17.57.52:640][256]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.09.28-17.57.52:640][256]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_L5
+[2022.09.28-17.57.52:641][256]LogWorld: UWorld::CleanupWorld for L5, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-17.57.52:641][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-17.57.52:697][256]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.28-17.57.52:702][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.09.28-17.57.52:704][256]LogLinker: Warning: Failed to load '/Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap': Can't find file.
+[2022.09.28-17.57.52:704][256]LogNet: Browse: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap?Name=Player
+[2022.09.28-17.57.52:704][256]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap?Name=Player
+[2022.09.28-17.57.52:723][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.09.28-17.57.52:723][256]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.09.28-17.57.52:728][256]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004391s)
+[2022.09.28-17.57.52:728][256]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2022.09.28-17.57.52:729][256]LogPlayLevel: PIE: World Init took: (0.001041s)
+[2022.09.28-17.57.52:729][256]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.005610s)
+[2022.09.28-17.57.52:729][256]LogAudio: Display: Audio Device (ID: 24) registered with world '2DSideScrollerExampleMap'.
+[2022.09.28-17.57.52:729][256]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.09.28-17.57.52:731][256]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2022.09.28-19.57.52
+[2022.09.28-17.57.52:731][256]LogWorld: Bringing up level for play took: 0.001214
+[2022.09.28-17.57.52:732][256]LogLoad: Took 0.028249 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap)
+[2022.09.28-17.57.52:732][256]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Failed to load package '/Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap'
+[2022.09.28-17.57.52:733][256]LogNet: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Failed to load package '/Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap''. Shutting down PIE.
+[2022.09.28-17.57.52:733][256]PIE: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Failed to load package '/Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap''. Shutting down PIE.
+[2022.09.28-17.57.52:782][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-17.57.52:783][256]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.09.28-17.57.52:783][256]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-17.57.52:783][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-17.57.52:792][256]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.28-17.57.52:796][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-17.57.52:813][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-17.57.52:813][256]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-17.57.52:814][256]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-17.57.52:830][256]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.09.28-17.57.52:924][257]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2022.09.28-17.57.57:099][734]LogSlate: Window 'Message Log' being destroyed
+[2022.09.28-17.57.57:101][734]LogSlate: Window 'Message Log' being destroyed
