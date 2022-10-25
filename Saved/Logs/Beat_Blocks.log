@@ -3065,3 +3065,13 @@ Make sure 'vignettes_C' has been compiled for  Get Speed
 [2022.10.25-20.56.19:338][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2022.10.25-20.56.19:343][251]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
 [2022.10.25-20.56.19:343][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.25-20.57.23:304][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.10.25-20.57.25:310][ 55]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.25-20.57.25:435][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.10.25-20.57.25:458][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.10.25-20.57.25:475][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.10.25-20.57.27:017][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Maps/L6" FILE="E:/unreal_engine_grejer/Beat_Blocks/Content/2DSideScrollerBP/Maps/L6.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.25-20.57.27:034][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.10.25-20.57.27:050][232]LogSavePackage: Moving 'E:/unreal_engine_grejer/Beat_Blocks/Saved/L6ACE4434A483DDEEAFE8357AA713EF5EC.tmp' to 'E:/unreal_engine_grejer/Beat_Blocks/Content/2DSideScrollerBP/Maps/L6.umap'
+[2022.10.25-20.57.27:063][232]AssetCheck: New page: Asset Save: L6
+[2022.10.25-20.57.27:063][232]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/L6.L6
